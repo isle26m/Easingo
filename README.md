@@ -26,7 +26,7 @@ Easing library for web animations.
    ```
 2. Unzip it then import it in your project:
    ```ts
-   import Easingo from "./Easingo" (or a relative path to where you saved it)
+   import Easingo from "./Easingo" // (or a relative path to where you saved it)
    ```
 3. Use it in the ease property:
    ```ts
