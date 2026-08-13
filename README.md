@@ -10,16 +10,14 @@ Easing library for web animations.
 
 <img src="/examples/elasticOut.gif" alt="elasticOut.gif">
 
-# EX
-
-## 📦 Features
+## Features
 * - All easings are mathematical functions, some are implemented to mimic real life physics like bouncing.
 * - Works with any animation library that has an ease property like GSAP, Framer Motion, Anime.js..
 
-## 🛠️ Tech Stack
+## Tech Stack
 * - Completely made in Typescript.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Installation and usage
 1. Clone the repository:
@@ -34,5 +32,5 @@ Easing library for web animations.
    ```ts
    ease: Easingo.elasticOut
 
-## 📄 License
+## License
 Distributed under the MIT License. See `LICENSE` for more information.
