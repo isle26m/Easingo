@@ -2,10 +2,6 @@
 
 Easing library for web animations.
 
-## Example expoOut
-
-<img src="/examples/expoOut.gif" alt="expoOut.gif">
-
 ## Example elasticOut
 
 <img src="/examples/elasticOut.gif" alt="elasticOut.gif">
